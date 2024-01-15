@@ -4,7 +4,7 @@ Hi 👋 My name is Tanishtha Jawa
 Software Developer
 ------------------
 
-* 🌍  I'm based in India
+* 🌍  I'm based out of India
 * ✉️  You can contact me at [tanishtha.jawa@outlook.com](mailto:tanishtha.jawa@outlook.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on interesting projects and ideas
